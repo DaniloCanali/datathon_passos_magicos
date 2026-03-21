@@ -89,7 +89,7 @@ A aplicação permite:
 - ✅ Dashboard com principais indicadores
 - ✅ Exportar lista de alunos em risco
 
-**Acesse:** [[SEU-LINK.streamlit.app](https://SEU-LINK.streamlit.app)](https://datathonpaappsmagicos-wijkucagk5k2xosfgnjhpl.streamlit.app/)
+**Acesse:** (https://datathonpaappsmagicos-wijkucagk5k2xosfgnjhpl.streamlit.app/)
 
 ---
 
