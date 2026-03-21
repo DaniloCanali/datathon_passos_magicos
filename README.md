@@ -133,7 +133,7 @@ streamlit run app/app.py
 
 ## 📹 Vídeo de Apresentação
 
-[Link do vídeo - 5 minutos]
+(https://www.youtube.com/watch?v=p7hNUJ7UP5k)
 
 ---
 
